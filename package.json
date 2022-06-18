@@ -1,0 +1,21 @@
+{
+  "name": "3-d-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "detector-js": "^1.3.2",
+    "express": "^4.18.1",
+    "inflate": "0.0.7",
+    "nodemon": "^2.0.16",
+    "socket.io": "^4.5.1",
+    "three-fbx-loader": "^1.0.3",
+    "three.js": "^0.77.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
